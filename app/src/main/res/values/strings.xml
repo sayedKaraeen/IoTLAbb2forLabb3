@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IoTLAbb2forLabb3</string>
+
+    <string name="txv_title_temp">Smart Home</string>
+    <string name="txv_indoor_temp">Indoor temperature:</string>
+    <string name="txv_indoor_temp_show">11.11</string>
+    <string name="txv_outdoor_light">Lighting:</string>
+    <string name="txv_outdoor_light_show">Off</string>
+    <string name="txv_outdoor_light_on">On</string>
+
+    <color name="black_alpha">#000000</color>
+    <color name="text_box_background">#E7E7E7</color>
+    <color name="blue_text">#0166ff</color>
+    <color name="title_bar_color">#EB164E</color>
+    <color name="activitybackground">#ccf0f0</color>
+    <color name="activityfont">#3f3f3f</color>
+
+</resources>
